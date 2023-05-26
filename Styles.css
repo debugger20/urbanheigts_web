@@ -1,0 +1,35 @@
+body {
+    background-color: limegreen;
+    background-image: url("realestate.jpg");
+  }
+  
+  h1 {
+    color: orange;
+    text-align: center;
+  }
+  h2 {
+    color: red;
+}
+button{
+  color: azure;
+  text-decoration-color: black;
+position: left;
+}
+  
+  p {
+    font-family: verdana;
+    font-size: 40px;
+    
+  }
+  a {
+    
+  }
+  div {
+    background-color: blue;
+    opacity: 0.5;
+    text-decoration: solid;
+    height: fit-content;
+    width: fit-content;
+    padding: 2px;
+  }
+            
